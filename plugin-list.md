@@ -25,6 +25,9 @@
 - Limit Login Attempts (http://devel.kostdoktorn.se/limit-login-attempts)
 
 
+### Social
+- Easy Social Icons (http://wordpress.org/plugins/easy-social-icons/)
+
 ### Extra stuff / features
 - Timely Calendar (http://time.ly/) note: heavy on the resources, but beautiful layouts
 - YouTube Channel Gallery (http://poselab.com/youtube-channel-gallery/)
