@@ -1,5 +1,6 @@
 ###Theme Development
 - Advanced Custom Fields (http://wordpress.org/plugins/advanced-custom-fields/)
+- CodePress Admin Columns (http://www.codepresshq.com/wordpress-plugins/admin-columns/)
 - Regenerate Thumbnails (http://www.viper007bond.com/wordpress-plugins/regenerate-thumbnails/)
 - Preserved HTML Markup (http://wordpress.org/plugins/preserved-html-editor-markup/)
 - Map Capabilities (https://github.com/thenbrent/map-cap)
