@@ -33,7 +33,6 @@
 - Timely Calendar (http://time.ly/) note: heavy on the resources, but beautiful layouts
 - YouTube Channel Gallery (http://poselab.com/youtube-channel-gallery/)
 - Slim Jetpack (http://wordpress.org/plugins/slimjetpack/)
-- 
 
 ### Themes and Mobile
 - WP Touch mobilie theme (http://wordpress.org/plugins/wptouch/)
