@@ -22,6 +22,7 @@
 
 ### URL Redirects
 - Safe Redirect Manager (http://wordpress.org/plugins/safe-redirect-manager/)
+- Redirection (http://wordpress.org/plugins/redirection/)
 
 ### Security
 - Limit Login Attempts (http://devel.kostdoktorn.se/limit-login-attempts)
