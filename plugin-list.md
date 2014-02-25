@@ -5,6 +5,7 @@
 - Preserved HTML Markup (http://wordpress.org/plugins/preserved-html-editor-markup/)
 - Map Capabilities (https://github.com/thenbrent/map-cap)
 - Tiny MCE Styles Editor (http://wordpress.org/plugins/tinymce-and-tinymce-advanced-professsional-formats-and-styles/)
+- WP Query Monitor (http://wordpress.org/plugins/query-monitor/)
 
 ###Admin Helpers
 - Admin Menu Tree Page View (http://eskapism.se/wordpress/admin-menu-tree-page-view/)
